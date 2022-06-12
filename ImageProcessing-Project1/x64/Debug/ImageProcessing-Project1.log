@@ -1,0 +1,6 @@
+﻿  ImageProcessing.cpp
+C:\Users\ameed\source\repos\ImageProcessing-Project1\ImageProcessing-Project1\ImageProcessing.cpp(37,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ameed\source\repos\ImageProcessing-Project1\ImageProcessing-Project1\ImageProcessing.cpp(146,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ameed\source\repos\ImageProcessing-Project1\ImageProcessing-Project1\ImageProcessing.cpp(147,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ameed\source\repos\ImageProcessing-Project1\ImageProcessing-Project1\ImageProcessing.cpp(194,4): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ImageProcessing-Project1.vcxproj -> C:\Users\ameed\source\repos\ImageProcessing-Project1\x64\Debug\ImageProcessing-Project1.exe
